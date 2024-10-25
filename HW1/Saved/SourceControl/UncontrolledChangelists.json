@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/MenuGameMode.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/MainMenu.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/176061-apple_landscape_illustration-apples-illustration-natural_landscape-purple-1920x1080.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/background_of_game.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Menu/MainMenuMap.umap"
+			]
+		}
+	]
+}
