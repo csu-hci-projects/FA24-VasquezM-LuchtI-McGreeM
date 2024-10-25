@@ -2209,3 +2209,1639 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.10.25-04.11.15:737][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 553 ms)
 [2024.10.25-04.11.15:738][741]AssetCheck: New page: Asset Save: MainMenuMap
 [2024.10.25-04.11.15:738][741]LogContentValidation: Display: Validating /Script/Engine.World /Game/Menu/MainMenuMap.MainMenuMap
+[2024.10.25-04.14.54:047][532]LogContentBrowser: Attempting asset rename: NewMap -> Level2
+[2024.10.25-04.14.54:053][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor ExponentialHeightFog_1 encountered when not using actor folders
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor VolumetricCloud_1 encountered when not using actor folders
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_0 encountered when not using actor folders
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor DirectionalLight_1 encountered when not using actor folders
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 6C02BB504B69D1F3D7A624B130C18E5B for actor StaticMeshActor_2 encountered when not using actor folders
+[2024.10.25-04.14.54:053][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_3 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_4 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_5 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor SkyLight_1 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 6C02BB504B69D1F3D7A624B130C18E5B for actor StaticMeshActor_6 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_7 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 6C02BB504B69D1F3D7A624B130C18E5B for actor StaticMeshActor_8 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_9 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_10 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_11 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_12 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 6C02BB504B69D1F3D7A624B130C18E5B for actor StaticMeshActor_13 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_14 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor SkyAtmosphere_1 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor StaticMeshActor_15 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 0BA5F0A04EADB18E70D5B180D08FA34B for actor PostProcessVolume_0 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 6C02BB504B69D1F3D7A624B130C18E5B for actor StaticMeshActor_16 encountered when not using actor folders
+[2024.10.25-04.14.54:054][532]LogActor: Warning: Actor folder 9AEEADCB4DC6C647D6E7C0B4EDA1744F for actor StaticMeshActor_17 encountered when not using actor folders
+[2024.10.25-04.14.54:097][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.14.54:135][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.14.54:149][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.25-04.14.54:163][532]LogSavePackage: Moving output files for package: /Game/Level2/Level2
+[2024.10.25-04.14.54:163][532]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Level27B5FFC754533A1A823B79490B5822EDA.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2.umap'
+[2024.10.25-04.14.54:171][532]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Level2/Level2_BuiltData
+[2024.10.25-04.14.54:171][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.14.54:176][532]LogSavePackage: Moving output files for package: /Game/Level2/Level2_BuiltData
+[2024.10.25-04.14.54:176][532]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Level2_BuiltDataAB5BA733414EF9C7EC7A3288A6F045DD.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2_BuiltData.uasset'
+[2024.10.25-04.14.54:178][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 6 ms (total: 560 ms)
+[2024.10.25-04.14.54:178][532]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Level2/Level2_BuiltData
+[2024.10.25-04.14.54:180][532]LogFileHelpers: Saving map 'Level2' took 0.045
+[2024.10.25-04.14.54:184][532]LogSavePackage: Moving output files for package: /Game/Level2/Level2_BuiltData
+[2024.10.25-04.14.54:185][532]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Level2_BuiltData118AD8814D54008B35786E9BD0821750.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2_BuiltData.uasset'
+[2024.10.25-04.14.54:191][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 654 ms)
+[2024.10.25-04.14.54:215][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.25-04.14.54:225][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.25-04.14.54:238][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.25-04.14.54:241][532]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.25-04.14.54:241][532]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level2/Level2.Level2
+[2024.10.25-04.14.54:241][532]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Level2/Level2_BuiltData.Level2_BuiltData
+[2024.10.25-04.15.11:316][447]LogSlate: Window 'Open Level' being destroyed
+[2024.10.25-04.15.21:081][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.25-04.15.21:083][469]Cmd: MAP LOAD FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.25-04.15.21:083][469]LightingResults: New page: Lighting Build
+[2024.10.25-04.15.21:083][469]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.10.25-04.15.21:114][469]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.15.21:114][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.15.21:114][469]MapCheck: New page: Map Check
+[2024.10.25-04.15.21:114][469]LightingResults: New page: Lighting Build
+[2024.10.25-04.15.21:126][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-04.15.21:128][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.25-04.15.21:130][469]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.15.21:130][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.15.21:143][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.10.25-04.15.21:156][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-04.15.21:164][469]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.10.25-04.15.21:164][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.15.21:164][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.15.21:165][469]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-04.15.21:165][469]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.10.25-04.15.21:165][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-04.15.21:165][469]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-04.15.21:199][469]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-04.15.21:199][469]LogWorldPartition: Display: WorldPartition initialize took 34 ms (total: 211 ms)
+[2024.10.25-04.15.21:224][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.25-04.15.21:239][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.25-04.15.21:244][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.25-04.15.21:244][469]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-04.15.21:244][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.425ms to complete.
+[2024.10.25-04.15.21:245][469]LogSlate: Window 'Open Level' being destroyed
+[2024.10.25-04.15.23:974][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.15.35:272][921]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: ================================================
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Total job queries 19, among them cache hits 7 (36.84%)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 11 distinct outputs (91.67%)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: RAM used: 261.86 KiB of 1.60 GiB budget. Usage: 0.02%
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 0.43 s
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 0.51
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Shader code size: average 32.624 KiB, min 29.648 KiB, max 35.125 KiB
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.51 s
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Average processing rate: 7.82 jobs/sec
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Total thread time: 0.71 s
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Total thread preprocess time: 0.086 s
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Percentage time preprocessing: 12.17%
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.09 sec, max 0.09 sec, min 0.09 sec)
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.25-04.15.35:328][923]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.55% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.25-04.15.35:329][923]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.70% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.25-04.15.35:329][923]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.54% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.25-04.15.35:329][923]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.21% of total time (compiled    1 times, average 0.09 sec, max 0.09 sec, min 0.09 sec)
+[2024.10.25-04.15.35:329][923]LogShaderCompilers: Display: ================================================
+[2024.10.25-04.24.25:777][252]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-04.24.25:778][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.24.25:778][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.24.25:787][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.24.25:787][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.24.34:743][848]LogSlate: Window 'HealthBar' being destroyed
+[2024.10.25-04.24.34:750][848]LogSlate: Window 'HealthBar' being destroyed
+[2024.10.25-04.24.34:757][848]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.24.34:757][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.24.34:764][848]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.24.34:764][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.25.21:039][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.25-04.25.21:043][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto1
+[2024.10.25-04.25.21:043][249]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/EAHCBN229IT8APJO305AH5_Auto1B50985794BBFDD3FC4536E8CF04E27AE.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto1.uasset'
+[2024.10.25-04.25.21:045][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.10.25-04.25.21:045][249]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.10.25-04.27.56:307][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-04.27.56:307][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.27.56:307][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.28.49:263][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-04.28.49:263][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.28.49:263][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.28.49:270][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.28.49:270][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.29.03:572][557]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.29.03:572][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.29.03:578][557]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.29.03:578][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.30.17:659][170]LogSlate: Took 0.005952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.25-04.30.31:256][292]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.25-04.30.31:295][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-04.30.37:970][836]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.25-04.30.38:004][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.25-04.30.39:441][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.30.39:525][945]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.25-04.30.39:527][945]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_FirstPersonCharacter3B334FFD4DD73E92E9FDB8B02BE101AA.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.25-04.30.39:533][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 746 ms)
+[2024.10.25-04.30.39:535][945]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.25-04.30.39:535][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-04.30.42:814][207]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.10.25-04.30.42:823][207]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.10.25-04.30.42:828][207]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.30.42:828][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.31.09:328][228]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.25-04.31.13:793][430]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.25-04.31.13:804][430]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.25-04.31.13:810][430]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.25-04.31.13:827][431]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.25-04.31.20:145][155]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UserInterfaceTargets
+[2024.10.25-04.31.20:150][155]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.25-04.31.21:314][288]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UserInterfaceTargets.UserInterfaceTargets
+[2024.10.25-04.31.21:314][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.31.21:314][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.31.21:322][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.31.21:322][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.36.55:765][931]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2024.10.25-04.37.47:098][697]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:099][697]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:177][698]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:184][698]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:200][699]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:203][699]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.47:272][700]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:794][244]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:796][244]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:801][244]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:879][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:882][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:893][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:911][246]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:914][246]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.54:988][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:000][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:018][248]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:113][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:193][251]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:211][252]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:287][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:289][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:300][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:318][254]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:321][254]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:326][254]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:397][255]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:422][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:425][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:430][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:502][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:503][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:515][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:534][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:536][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:609][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:620][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:638][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:641][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:646][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:716][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:742][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:745][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:749][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:821][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:833][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:928][265]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:945][266]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.55:951][266]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:022][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:024][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:050][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:056][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:126][269]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:128][269]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:139][269]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:156][270]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:230][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:240][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:260][272]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:355][274]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:433][275]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:529][277]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:547][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:644][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:715][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:726][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:823][283]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:842][284]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.56:938][286]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.57:018][287]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:288][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:290][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:296][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:373][357]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:376][357]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:401][358]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:407][358]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:480][359]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:483][359]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:496][359]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:514][360]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:589][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:592][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:604][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:622][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:624][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:632][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:712][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:715][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:742][364]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:749][364]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:833][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:930][367]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:951][368]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.58:957][368]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:030][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:063][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:069][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:142][371]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:155][371]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:246][373]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:258][373]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:275][374]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:281][374]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:378][376]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:460][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:554][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:572][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:668][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:739][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:749][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:837][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:849][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:867][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:871][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:943][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.37.59:969][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:051][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:148][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:167][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:262][394]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:341][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:435][397]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:455][398]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:551][400]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:629][401]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:729][403]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:748][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:845][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.00:925][407]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:021][409]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:043][410]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:137][412]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:217][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:235][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:307][415]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:319][415]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:336][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:339][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:345][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:414][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:416][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:443][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:447][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:520][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:531][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:549][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:552][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:626][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:637][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:654][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:656][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:661][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:733][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:759][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:764][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:835][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:847][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:865][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:938][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:950][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:967][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:969][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.01:975][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:047][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:074][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:154][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:243][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:253][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:272][434]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:274][434]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:279][434]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:352][435]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:355][435]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:381][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:384][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:389][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:460][437]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:471][437]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:560][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:572][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:591][440]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:662][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:665][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:691][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:695][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:769][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:771][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:782][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:878][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:896][446]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.02:992][448]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.38.03:072][449]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.39.01:488][688]BlueprintLog: New page: Compile UserInterfaceTargets
+[2024.10.25-04.39.01:515][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.25-04.39.02:619][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.39.02:681][756]LogSavePackage: Moving output files for package: /Game/UI/UserInterfaceTargets
+[2024.10.25-04.39.02:681][756]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/UserInterfaceTargets9E142B5A4FFBA0C458B608A943407D81.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/UserInterfaceTargets.uasset'
+[2024.10.25-04.39.02:691][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 818 ms)
+[2024.10.25-04.39.02:691][756]AssetCheck: New page: Asset Save: UserInterfaceTargets
+[2024.10.25-04.39.02:691][756]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterfaceTargets.UserInterfaceTargets
+[2024.10.25-04.39.13:014][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-04.39.13:014][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.39.13:014][786]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.39.49:765][242]LogEditorTransaction: Undo Add Node
+[2024.10.25-04.39.55:155][640]LogBlueprint: Warning: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2024.10.25-04.41.05:041][876]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2024.10.25-04.41.19:631][200]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-04.41.19:631][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.19:631][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.19:639][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.19:639][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.28:093][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-04.41.28:101][860]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-04.41.28:101][860]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-04.41.28:101][860]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-04.41.28:103][860]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 49 ms)
+[2024.10.25-04.41.28:103][860]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.25-04.41.28:107][860]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2024.10.25-04.41.28:202][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.25-04.41.28:203][860]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2024.10.25-04.41.28:203][860]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 4:41:28 PM)
+[2024.10.25-04.41.28:203][860]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2024.10.25-04.41.28:206][860]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.10.25-04.41.28:257][861]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.41.28:261][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004554s)
+[2024.10.25-04.41.28:261][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004611s)
+[2024.10.25-04.41.28:274][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.25-04.41.28:276][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.28:276][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.28:276][861]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-04.41.28:277][861]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-04.41.28:277][861]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-04.41.28:277][861]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-04.41.28:277][861]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-04.41.28:278][861]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-04.41.28:278][861]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 212 ms)
+[2024.10.25-04.41.28:278][861]LogPlayLevel: PIE: World Init took: (0.002416s)
+[2024.10.25-04.41.28:278][861]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-04.41.28:278][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-04.41.28:278][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-04.41.28:279][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-04.41.28:279][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-04.41.28:279][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-04.41.28:281][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-04.41.28:298][861]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-04.41.28:299][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-04.41.28:299][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-04.41.28:299][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-04.41.28:299][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.10.25-04.41.28:299][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.10.25-04.41.28:301][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.10.25-04.41.28:301][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.10.25-04.41.28:301][861]LogInit: FAudioDevice initialized with ID 11.
+[2024.10.25-04.41.28:301][861]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2024.10.25-04.41.28:302][861]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.25-04.41.28:310][861]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-04.41.28:313][861]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-22.41.28
+[2024.10.25-04.41.28:314][861]LogWorld: Bringing up level for play took: 0.003147
+[2024.10.25-04.41.28:317][861]PIE: Server logged in
+[2024.10.25-04.41.28:318][861]PIE: Play in editor total start time 0.218 seconds.
+[2024.10.25-04.41.30:028][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.41.30:029][980]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.41.30:029][980]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.41.30:029][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.30:029][980]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-04.41.30:031][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-04.41.30:035][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.30:046][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.41.30:046][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.25-04.41.30:046][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.25-04.41.30:048][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.25-04.41.30:054][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.25-04.41.30:103][981]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.10.25-04.41.35:123][460]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Ammo.Ammo
+[2024.10.25-04.41.35:123][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.35:123][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.35:129][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.35:129][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.41:358][120]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.41.41:358][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.41:365][120]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.41.41:365][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.45:620][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-04.41.45:628][351]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-04.41.45:628][351]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-04.41.45:629][351]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-04.41.45:630][351]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 51 ms)
+[2024.10.25-04.41.45:631][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-04.41.45:631][351]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 4:41:45 PM)
+[2024.10.25-04.41.45:631][351]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.10.25-04.41.45:633][351]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.25-04.41.45:649][352]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.41.45:654][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004690s)
+[2024.10.25-04.41.45:654][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004763s)
+[2024.10.25-04.41.45:668][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.25-04.41.45:669][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.41.45:670][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.41.45:670][352]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-04.41.45:671][352]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-04.41.45:671][352]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-04.41.45:671][352]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-04.41.45:671][352]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-04.41.45:672][352]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-04.41.45:672][352]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 213 ms)
+[2024.10.25-04.41.45:672][352]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2024.10.25-04.41.45:672][352]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-04.41.45:672][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-04.41.45:672][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-04.41.45:672][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-04.41.45:672][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-04.41.45:672][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-04.41.45:674][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-04.41.45:691][352]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-04.41.45:692][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-04.41.45:692][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-04.41.45:692][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-04.41.45:693][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.25-04.41.45:693][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.25-04.41.45:694][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.25-04.41.45:694][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.25-04.41.45:694][352]LogInit: FAudioDevice initialized with ID 12.
+[2024.10.25-04.41.45:694][352]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.10.25-04.41.45:694][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.25-04.41.45:697][352]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-04.41.45:699][352]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-22.41.45
+[2024.10.25-04.41.45:699][352]LogWorld: Bringing up level for play took: 0.002410
+[2024.10.25-04.41.45:703][352]PIE: Server logged in
+[2024.10.25-04.41.45:704][352]PIE: Play in editor total start time 0.076 seconds.
+[2024.10.25-04.41.55:677][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.41.55:677][524]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.41.55:678][524]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.41.55:678][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.55:678][524]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-04.41.55:681][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-04.41.55:684][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.41.55:697][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-04.41.55:697][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.25-04.41.55:697][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.25-04.41.55:699][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.25-04.41.55:703][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.41.55:705][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-04.41.55:753][525]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 0 (Found bundle for host: 0x8ec9f160000 [serially])
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 7 (Closing connection)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA42C58F-415D-8800-FAA6-91AF51700E85%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=6409983f4ad6b595dbea35a788d13818%7C564ae516e76d4ff0b088d0cfdefd0141%7C8ec8193c-b2d0-4c69-a1b8-9d7898414f00&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 12 (  Trying 54.145.137.238:443...)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (54.145.137.238) port 443)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.10.25-04.42.10:362][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 26 (Server certificate:)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 33 (using HTTP/1.1)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 35 (Closing connection)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: 000008ED10FA0F00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.25-04.42.10:363][ 67]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA42C58F-415D-8800-FAA6-91AF51700E85%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=6409983f4ad6b595dbea35a788d13818%7C564ae516e76d4ff0b088d0cfdefd0141%7C8ec8193c-b2d0-4c69-a1b8-9d7898414f00&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.25-04.45.14:911][448]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.28:646][341]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.31:086][485]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.31:514][506]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.32:473][563]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.35:922][777]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.42:785][197]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.45.56:651][ 68]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.46.14:728][256]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.46.53:534][924]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.53:535][924]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.53:709][925]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.53:730][926]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.53:910][928]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:555][  0]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:555][  0]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:556][  0]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:558][  0]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:696][  1]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:724][  1]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:742][  2]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:879][  3]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:908][  3]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.55:929][  4]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.56:058][  5]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.56:104][  6]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.56:107][  6]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.56:236][  7]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.56:266][  7]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.57:215][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.57:215][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.57:355][ 39]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.57:381][ 39]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.46.57:401][ 40]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:097][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:098][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:100][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:241][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:290][381]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:295][381]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:432][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:465][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:487][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:490][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:630][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:632][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:666][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:687][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:693][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:829][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:880][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.04:886][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.05:021][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.05:057][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:362][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:364][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:366][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:372][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:519][493]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:520][493]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:554][493]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:574][494]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:577][494]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:717][495]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:751][495]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:773][496]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.07:957][498]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:092][499]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:095][499]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:129][499]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:149][500]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:151][500]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:289][501]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:323][501]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:345][502]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:529][504]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.47.08:692][505]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.25-04.48.12:022][628]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.18:042][990]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.21:942][214]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.27:586][535]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.29:677][651]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.41:213][416]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.47:132][768]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.48.51:062][994]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.49.21:740][893]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.49.34:742][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.49.34:782][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBar" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/HealthBar.uasset" SILENT=true
+[2024.10.25-04.49.34:790][960]LogSavePackage: Moving output files for package: /Game/HealthBar
+[2024.10.25-04.49.34:791][960]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/HealthBar9F35CE884794545A4EDB27A9ED65401D.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/HealthBar.uasset'
+[2024.10.25-04.49.34:799][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 875 ms)
+[2024.10.25-04.49.34:800][960]AssetCheck: New page: Asset Save: HealthBar
+[2024.10.25-04.49.34:801][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-04.49.43:616][854]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.49.43:616][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.49.49:155][230]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.49.49:155][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.49.49:162][230]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.49.49:162][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.49.55:584][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.25-04.49.58:293][878]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.25-04.49.58:315][878]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/UserInterfaceTargets.UserInterfaceTargets
+	Asset Type: WidgetBlueprint
+[2024.10.25-04.49.58:523][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.25-04.49.58:537][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.25-04.49.58:550][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.25-04.49.58:569][879]LogAutomationController: Ignoring very large delta of 3.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.25-04.50.07:294][696]BlueprintLog: New page: Compile HealthBar
+[2024.10.25-04.50.07:315][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.25-04.50.19:985][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-04.50.19:985][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.50.19:985][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.50.51:161][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.50.51:273][153]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.25-04.50.51:275][153]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_FirstPersonCharacter3D3D84F94F984699BC9A13987F6ECE3A.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.25-04.50.51:283][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 997 ms)
+[2024.10.25-04.50.51:285][153]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.25-04.50.51:285][153]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-04.50.58:189][771]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.25-04.50.58:226][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.25-04.51.03:715][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-04.51.03:722][289]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-04.51.03:722][289]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-04.51.03:723][289]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-04.51.03:724][289]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 53 ms)
+[2024.10.25-04.51.03:724][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-04.51.03:724][289]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 4:51:03 PM)
+[2024.10.25-04.51.03:765][289]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2024.10.25-04.51.03:767][289]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.10.25-04.51.03:786][290]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.51.03:790][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004273s)
+[2024.10.25-04.51.03:790][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004328s)
+[2024.10.25-04.51.03:803][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-04.51.03:806][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.51.03:806][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.51.03:807][290]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-04.51.03:807][290]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-04.51.03:807][290]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-04.51.03:807][290]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-04.51.03:807][290]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-04.51.03:808][290]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-04.51.03:808][290]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 214 ms)
+[2024.10.25-04.51.03:808][290]LogPlayLevel: PIE: World Init took: (0.002602s)
+[2024.10.25-04.51.03:809][290]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-04.51.03:809][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-04.51.03:809][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-04.51.03:809][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-04.51.03:809][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-04.51.03:809][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-04.51.03:811][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-04.51.03:829][290]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-04.51.03:830][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-04.51.03:830][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-04.51.03:830][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-04.51.03:830][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.25-04.51.03:830][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.25-04.51.03:832][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.25-04.51.03:832][290]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.25-04.51.03:832][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.25-04.51.03:832][290]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.10.25-04.51.03:832][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.25-04.51.03:834][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-04.51.03:837][290]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-22.51.03
+[2024.10.25-04.51.03:837][290]LogWorld: Bringing up level for play took: 0.002402
+[2024.10.25-04.51.03:842][290]PIE: Server logged in
+[2024.10.25-04.51.03:842][290]PIE: Play in editor total start time 0.12 seconds.
+[2024.10.25-04.51.06:947][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.51.06:947][643]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.51.06:947][643]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.51.06:947][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.51.06:948][643]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-04.51.06:950][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-04.51.06:954][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.51.06:967][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-04.51.06:967][643]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.25-04.51.06:967][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.25-04.51.06:969][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.25-04.51.06:973][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.51.06:975][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.25-04.51.07:028][644]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.10.25-04.51.30:890][340]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-04.51.31:380][372]LogDerivedDataCache: C:/Users/michellv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1521 files in 2365 folders with total size 37 MiB.
+[2024.10.25-04.51.56:681][102]BlueprintLog: New page: Compile HealthBar
+[2024.10.25-04.51.56:702][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.25-04.51.58:076][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.51.58:139][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBar" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/HealthBar.uasset" SILENT=true
+[2024.10.25-04.51.58:146][235]LogSavePackage: Moving output files for package: /Game/HealthBar
+[2024.10.25-04.51.58:148][235]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/HealthBar29F6050D4564FA9ADA2D0B867F821F96.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/HealthBar.uasset'
+[2024.10.25-04.51.58:153][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.07 sec)
+[2024.10.25-04.51.58:155][235]AssetCheck: New page: Asset Save: HealthBar
+[2024.10.25-04.51.58:155][235]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-04.52.03:713][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-04.52.03:721][783]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-04.52.03:721][783]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-04.52.03:721][783]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-04.52.03:723][783]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 55 ms)
+[2024.10.25-04.52.03:723][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-04.52.03:723][783]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 4:52:03 PM)
+[2024.10.25-04.52.03:755][783]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2024.10.25-04.52.03:757][783]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.10.25-04.52.03:775][784]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.52.03:779][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004149s)
+[2024.10.25-04.52.03:779][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004202s)
+[2024.10.25-04.52.03:789][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.25-04.52.03:793][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.52.03:793][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.52.03:794][784]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-04.52.03:794][784]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-04.52.03:794][784]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-04.52.03:794][784]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-04.52.03:794][784]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-04.52.03:796][784]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-04.52.03:796][784]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 216 ms)
+[2024.10.25-04.52.03:796][784]LogPlayLevel: PIE: World Init took: (0.002726s)
+[2024.10.25-04.52.03:796][784]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-04.52.03:796][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-04.52.03:796][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-04.52.03:796][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-04.52.03:796][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-04.52.03:796][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-04.52.03:798][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-04.52.03:815][784]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-04.52.03:815][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-04.52.03:815][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-04.52.03:815][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-04.52.03:816][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.25-04.52.03:816][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.25-04.52.03:817][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.25-04.52.03:817][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.25-04.52.03:817][784]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.25-04.52.03:817][784]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.10.25-04.52.03:817][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.25-04.52.03:820][784]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-04.52.03:822][784]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-22.52.03
+[2024.10.25-04.52.03:823][784]LogWorld: Bringing up level for play took: 0.002239
+[2024.10.25-04.52.03:827][784]PIE: Server logged in
+[2024.10.25-04.52.03:827][784]PIE: Play in editor total start time 0.107 seconds.
+[2024.10.25-04.52.07:856][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.52.07:856][250]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-04.52.07:856][250]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-04.52.07:857][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.52.07:857][250]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-04.52.07:860][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-04.52.07:864][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-04.52.07:875][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-04.52.07:876][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.25-04.52.07:877][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.25-04.52.07:878][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.25-04.52.07:881][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-04.52.07:884][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.25-04.52.07:936][251]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.25-04.52.33:895][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.25-04.52.33:899][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto2
+[2024.10.25-04.52.33:899][289]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/EAHCBN229IT8APJO305AH5_Auto20E9187FC4E2FF54084A0568F9C7C14F8.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto2.uasset'
+[2024.10.25-04.52.33:900][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2024.10.25-04.52.33:900][289]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2024.10.25-04.56.30:413][955]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.25-04.56.30:422][955]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.25-04.56.30:431][955]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.25-04.56.30:432][955]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.25-04.56.30:444][956]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.25-04.56.33:447][217]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> TargetHealth
+[2024.10.25-04.56.33:453][217]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.25-04.56.34:690][328]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TargetHealth.TargetHealth
+[2024.10.25-04.56.34:691][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.56.34:691][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.56.34:699][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-04.56.34:699][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-04.56.49:974][936]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2024.10.25-04.59.39:356][ 18]BlueprintLog: New page: Compile TargetHealth
+[2024.10.25-04.59.39:379][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.25-04.59.40:428][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-04.59.40:496][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TargetHealth" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset" SILENT=true
+[2024.10.25-04.59.40:499][ 70]LogSavePackage: Moving output files for package: /Game/UI/TargetHealth
+[2024.10.25-04.59.40:499][ 70]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/TargetHealthB5B30FAF40DB7259A2BD91ACC5BD3A84.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset'
+[2024.10.25-04.59.40:510][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.15 sec)
+[2024.10.25-04.59.40:510][ 70]AssetCheck: New page: Asset Save: TargetHealth
+[2024.10.25-04.59.40:510][ 70]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/TargetHealth.TargetHealth
+[2024.10.25-05.02.16:696][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.02.16:763][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TargetHealth" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset" SILENT=true
+[2024.10.25-05.02.16:767][955]LogSavePackage: Moving output files for package: /Game/UI/TargetHealth
+[2024.10.25-05.02.16:768][955]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/TargetHealthC9C51E9B4FB0EF95F3858BAED146179B.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset'
+[2024.10.25-05.02.16:775][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.23 sec)
+[2024.10.25-05.02.16:776][955]AssetCheck: New page: Asset Save: TargetHealth
+[2024.10.25-05.02.16:776][955]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/TargetHealth.TargetHealth
+[2024.10.25-05.02.17:979][ 75]BlueprintLog: New page: Compile TargetHealth
+[2024.10.25-05.02.18:002][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.25-05.03.30:112][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.25-05.03.30:117][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.03.30:174][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2024.10.25-05.03.30:175][265]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/EAHCBN229IT8APJO305AH59A63CCB546AC352C380C949FA376296F.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2024.10.25-05.03.30:184][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.30 sec)
+[2024.10.25-05.03.30:186][265]AssetCheck: New page: Asset Save: BP_Rifle_C_1
+[2024.10.25-05.03.30:186][265]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2024.10.25-05.06.49:506][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.06.49:608][158]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.25-05.06.49:609][158]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_FirstPersonCharacter234B4C5D4EF5E0821212C0BA16CE0B60.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.25-05.06.49:618][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.41 sec)
+[2024.10.25-05.06.49:620][158]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.25-05.06.49:620][158]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.25-05.06.50:221][206]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.25-05.06.50:257][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.25-05.06.54:018][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-05.06.54:025][557]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-05.06.54:025][557]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-05.06.54:026][557]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-05.06.54:027][557]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 57 ms)
+[2024.10.25-05.06.54:027][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-05.06.54:027][557]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 5:06:54 PM)
+[2024.10.25-05.06.54:053][557]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2024.10.25-05.06.54:055][557]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.10.25-05.06.54:073][558]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-05.06.54:078][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004541s)
+[2024.10.25-05.06.54:078][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004596s)
+[2024.10.25-05.06.54:090][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.25-05.06.54:093][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.06.54:094][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.06.54:094][558]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-05.06.54:095][558]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-05.06.54:095][558]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-05.06.54:095][558]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-05.06.54:095][558]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-05.06.54:096][558]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-05.06.54:096][558]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 217 ms)
+[2024.10.25-05.06.54:096][558]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2024.10.25-05.06.54:096][558]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-05.06.54:096][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-05.06.54:096][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-05.06.54:097][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-05.06.54:097][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-05.06.54:097][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-05.06.54:098][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-05.06.54:117][558]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-05.06.54:117][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-05.06.54:117][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-05.06.54:117][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-05.06.54:119][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.25-05.06.54:119][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.25-05.06.54:120][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.25-05.06.54:120][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.25-05.06.54:120][558]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.25-05.06.54:120][558]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.10.25-05.06.54:120][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.25-05.06.54:123][558]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-05.06.54:126][558]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-23.06.54
+[2024.10.25-05.06.54:126][558]LogWorld: Bringing up level for play took: 0.002590
+[2024.10.25-05.06.54:130][558]PIE: Server logged in
+[2024.10.25-05.06.54:131][558]PIE: Play in editor total start time 0.106 seconds.
+[2024.10.25-05.07.58:222][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-05.07.58:222][220]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-05.07.58:223][220]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.07.58:223][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.07.58:223][220]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-05.07.58:226][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-05.07.58:230][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.07.58:242][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-05.07.58:243][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.25-05.07.58:243][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.25-05.07.58:244][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.25-05.07.58:248][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-05.07.58:250][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.25-05.07.58:303][221]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.10.25-05.08.03:334][758]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2024.10.25-05.08.03:335][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.08.03:335][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.08.06:952][ 77]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.08.06:952][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.08.06:973][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2024.10.25-05.08.06:974][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.08.06:974][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.08.12:832][575]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.08.12:832][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.08.22:871][505]LogLinker: Warning: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\MyBlueprints\BP_Target.uasset: Failed to load '/Game/MyMaterials/Hit': Can't find file.
+[2024.10.25-05.08.22:871][505]LogLinker: Warning: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\MyBlueprints\BP_Target.uasset: VerifyImport: Failed to load package for import object 'Package /Game/MyMaterials/Hit'
+[2024.10.25-05.08.22:876][505]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule should be resaved to improve async compilation performance.
+[2024.10.25-05.08.22:877][505]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_Target.BP_Target
+[2024.10.25-05.08.22:877][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.08.22:877][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.08.22:883][505]LogStaticMesh: Display: Building static mesh Shape_WideCapsule...
+[2024.10.25-05.08.22:887][505]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2024.10.25-05.08.22:972][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.11.02:232][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.25-05.11.02:235][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.10.25-05.11.02:236][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyBlueprints/BP_Target] ([2] browsable assets)...
+[2024.10.25-05.11.02:280][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyBlueprints/BP_Target.BP_Target]
+[2024.10.25-05.11.02:281][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.11.02:296][504]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C]
+[2024.10.25-05.11.02:296][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/BP_Target]
+[2024.10.25-05.11.02:301][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/BP_Target_Auto3
+[2024.10.25-05.11.02:301][504]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_Target_Auto3489A5A8D46A661AC399EB59F4FCE3305.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/MyBlueprints/BP_Target_Auto3.uasset'
+[2024.10.25-05.11.02:301][504]LogFileHelpers: Auto-saving content packages took 0.066
+[2024.10.25-05.11.57:320][150]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.11.57:345][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.25-05.16.41:956][717]BlueprintLog: New page: Compile TargetHealth
+[2024.10.25-05.16.41:980][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.25-05.16.43:027][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.16.43:075][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TargetHealth" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset" SILENT=true
+[2024.10.25-05.16.43:080][815]LogSavePackage: Moving output files for package: /Game/UI/TargetHealth
+[2024.10.25-05.16.43:081][815]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/TargetHealth56DE83244B6355251802FD8042123D26.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset'
+[2024.10.25-05.16.43:088][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.47 sec)
+[2024.10.25-05.16.43:090][815]AssetCheck: New page: Asset Save: TargetHealth
+[2024.10.25-05.16.43:090][815]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/TargetHealth.TargetHealth
+[2024.10.25-05.18.08:598][221]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.18.08:624][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.25-05.23.26:790][536]LogEditorTransaction: Undo Add Node
+[2024.10.25-05.24.20:100][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.25-05.24.20:103][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2024.10.25-05.24.20:103][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyBlueprints/BP_Target] ([2] browsable assets)...
+[2024.10.25-05.24.20:145][677]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyBlueprints/BP_Target.BP_Target]
+[2024.10.25-05.24.20:145][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/BP_Target]
+[2024.10.25-05.24.20:152][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/BP_Target_Auto4
+[2024.10.25-05.24.20:152][677]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_Target_Auto4B1F76A204AC1AAD440A0E6B1409DABC3.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/MyBlueprints/BP_Target_Auto4.uasset'
+[2024.10.25-05.24.20:153][677]LogFileHelpers: Auto-saving content packages took 0.050
+[2024.10.25-05.27.09:831][751]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.27.09:833][751]LogBlueprint: Warning: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\MyBlueprints\BP_Target.uasset: [Compiler] Could not find a variable named "Target_Health" in 'BP_Target_C'.
+Make sure 'BP_Target_C' has been compiled for  Set Target_Health
+[2024.10.25-05.27.09:834][751]LogBlueprint: Error: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\MyBlueprints\BP_Target.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2024.10.25-05.27.09:834][751]LogBlueprint: Error: [AssetLog] C:\Users\michellv\OneDrive - Colostate\CS310H\FA24-VasquezM-LuchtI-McGreeM\HW1\Content\MyBlueprints\BP_Target.uasset: [Compiler] The property associated with  Target Health  could not be found in '/Game/MyBlueprints/BP_Target.BP_Target_C'
+[2024.10.25-05.27.09:858][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.25-05.27.44:222][726]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.27.44:247][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.25-05.28.32:318][971]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.28.32:344][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.25-05.29.21:887][ 22]BlueprintLog: New page: Compile BP_Target
+[2024.10.25-05.29.21:912][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.25-05.29.40:909][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.29.41:025][521]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_Target
+[2024.10.25-05.29.41:026][521]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_Target43B78BEC47E7D91EB236F1BEDB615365.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/BP_Target.uasset'
+[2024.10.25-05.29.41:037][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1.60 sec)
+[2024.10.25-05.29.41:038][521]AssetCheck: New page: Asset Save: BP_Target
+[2024.10.25-05.29.41:038][521]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/BP_Target.BP_Target
+[2024.10.25-05.30.00:195][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.00:195][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.00:196][244]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_0
+[2024.10.25-05.30.00:197][244]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_0
+[2024.10.25-05.30.00:203][244]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.25-05.30.00:903][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.00:903][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.00:905][319]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_CC6B1E41B874E22802_1604359511
+[2024.10.25-05.30.00:905][319]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_CC6B1E41B874E22802_1604359511
+[2024.10.25-05.30.04:111][650]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.04:111][650]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.04:112][650]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_1
+[2024.10.25-05.30.04:112][650]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_1
+[2024.10.25-05.30.04:865][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.04:865][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C
+[2024.10.25-05.30.04:868][731]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_CC6B1E41B874E22802_1608321512
+[2024.10.25-05.30.04:868][731]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_CC6B1E41B874E22802_1608321512
+[2024.10.25-05.30.07:446][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-05.30.07:453][ 16]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.25-05.30.07:453][ 16]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.10.25-05.30.07:453][ 16]MapCheck: Actor needs resave /Game/FirstPerson/Maps/FirstPersonMap.WorldDataLayers 
+[2024.10.25-05.30.07:455][ 16]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 59 ms)
+[2024.10.25-05.30.07:467][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-05.30.07:467][ 16]PIE: New page: PIE session: FirstPersonMap (Oct 24, 2024, 5:30:07 PM)
+[2024.10.25-05.30.07:467][ 16]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2024.10.25-05.30.07:469][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.10.25-05.30.07:489][ 17]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-05.30.07:494][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004853s)
+[2024.10.25-05.30.07:494][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004895s)
+[2024.10.25-05.30.07:505][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.25-05.30.07:507][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.30.07:507][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.30.07:507][ 17]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.10.25-05.30.07:509][ 17]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.25-05.30.07:509][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.25-05.30.07:509][ 17]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.25-05.30.07:509][ 17]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.25-05.30.07:510][ 17]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.10.25-05.30.07:510][ 17]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 218 ms)
+[2024.10.25-05.30.07:510][ 17]LogPlayLevel: PIE: World Init took: (0.002830s)
+[2024.10.25-05.30.07:510][ 17]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.25-05.30.07:510][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-05.30.07:511][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-05.30.07:511][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-05.30.07:511][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-05.30.07:511][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-05.30.07:511][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-05.30.07:513][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-05.30.07:532][ 17]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-05.30.07:532][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-05.30.07:532][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-05.30.07:532][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-05.30.07:533][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.25-05.30.07:533][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.25-05.30.07:535][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.25-05.30.07:535][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.25-05.30.07:535][ 17]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.25-05.30.07:535][ 17]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.10.25-05.30.07:535][ 17]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.25-05.30.07:538][ 17]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-05.30.07:540][ 17]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.10.24-23.30.07
+[2024.10.25-05.30.07:540][ 17]LogWorld: Bringing up level for play took: 0.002671
+[2024.10.25-05.30.07:546][ 17]PIE: Server logged in
+[2024.10.25-05.30.07:547][ 17]PIE: Play in editor total start time 0.093 seconds.
+[2024.10.25-05.30.39:659][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-05.30.39:659][837]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.10.25-05.30.39:659][837]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.30.39:659][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.30.39:659][837]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.25-05.30.39:664][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-05.30.39:668][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.30.39:678][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-05.30.39:678][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.25-05.30.39:678][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.25-05.30.39:681][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.25-05.30.39:687][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.25-05.30.39:752][838]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.10.25-05.30.42:045][109]Cmd: SELECT NONE
+[2024.10.25-05.31.58:699][862]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2024.10.25-05.32.03:004][ 80]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446734260549066272
+[2024.10.25-05.32.03:004][ 80]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.10.25-05.32.03:005][ 80]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2024.10.25-05.32.04:421][163]LogSlate: Window 'Size Map' being destroyed
+[2024.10.25-05.32.04:428][163]LogSlate: Window 'Size Map' being destroyed
+[2024.10.25-05.32.16:097][910]LogSlate: Window 'BP_Target' being destroyed
+[2024.10.25-05.32.16:105][910]LogSlate: Window 'BP_Target' being destroyed
+[2024.10.25-05.32.16:147][910]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:147][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.16:155][910]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:155][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.16:199][910]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:199][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.16:248][910]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:248][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.16:255][910]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:255][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.16:289][910]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.25-05.32.16:289][910]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.32.16:289][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.32.17:260][999]LogSlate: Window 'Asset Audit' being destroyed
+[2024.10.25-05.32.17:266][999]LogSlate: Window 'Asset Audit' being destroyed
+[2024.10.25-05.32.26:303][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_Target.BP_Target
+[2024.10.25-05.32.26:304][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.32.26:304][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.32.40:351][289]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.25-05.32.40:363][289]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.25-05.32.40:379][289]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.25-05.32.40:405][290]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.25-05.32.42:082][377]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.10.25-05.32.42:088][377]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.25-05.32.46:158][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.25-05.32.47:414][566]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.25-05.32.47:437][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.25-05.32.47:448][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.25-05.32.47:462][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.25-05.32.50:945][631]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.25-05.32.50:958][631]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.25-05.32.50:975][631]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.25-05.32.51:000][632]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.25-05.32.53:900][789]LogContentBrowser: Attempting asset rename: NewBlueprint -> Targe
+[2024.10.25-05.32.53:905][789]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.25-05.32.58:636][ 20]LogContentBrowser: Attempting asset rename: Targe -> Target
+[2024.10.25-05.32.58:657][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.Target:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:657][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.SKEL_Target_C:UserConstructionScript' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:657][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.SKEL_Target_C' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:657][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.Target_C' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:658][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.Target:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:658][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.Target:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:658][ 20]LogMetaData: Removing '/Game/MyBlueprints/Target.Target:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyBlueprints/Targe.PackageMetaData'
+[2024.10.25-05.32.58:658][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.32.58:693][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Target" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset" SILENT=true
+[2024.10.25-05.32.58:696][ 20]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Target
+[2024.10.25-05.32.58:696][ 20]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Target296948FF4A4C5246AE8F848313F078A7.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset'
+[2024.10.25-05.32.58:707][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.65 sec)
+[2024.10.25-05.32.58:728][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.25-05.32.58:742][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-05.32.58:756][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.25-05.32.58:758][ 20]AssetCheck: New page: Asset Save: Target
+[2024.10.25-05.32.58:758][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/Target.Target
+[2024.10.25-05.33.01:453][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Target.Target
+[2024.10.25-05.33.01:453][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.33.01:453][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.33.01:578][164]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2024.10.25-05.33.56:565][405]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EngineMeshes/SM_MatPreviewMesh_01) ...
+[2024.10.25-05.33.56:571][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.34.52:500][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.25-05.34.52:509][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/52/AX7R01YPSZQQ29KVT4164V_Auto5
+[2024.10.25-05.34.52:509][893]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/AX7R01YPSZQQ29KVT4164V_Auto5538E2219423D4A8335F07D925A78C386.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/52/AX7R01YPSZQQ29KVT4164V_Auto5.uasset'
+[2024.10.25-05.34.52:511][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/X1/PJQ3KE8ES5ZI71XDML195H_Auto5
+[2024.10.25-05.34.52:511][893]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/PJQ3KE8ES5ZI71XDML195H_Auto5A84DDC5D414BA68321A9178BA4A94897.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/X1/PJQ3KE8ES5ZI71XDML195H_Auto5.uasset'
+[2024.10.25-05.34.52:512][893]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.10.25-05.34.52:513][893]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.10.25-05.34.52:513][893]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyBlueprints/Target] ([2] browsable assets)...
+[2024.10.25-05.34.52:522][893]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyBlueprints/Target.Target]
+[2024.10.25-05.34.52:522][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/Target]
+[2024.10.25-05.34.52:525][893]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/Target_Auto5
+[2024.10.25-05.34.52:525][893]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Target_Auto57DE891A540BA105E8664CBB054F8E21B.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/MyBlueprints/Target_Auto5.uasset'
+[2024.10.25-05.34.52:526][893]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.10.25-05.35.51:068][ 41]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.25-05.35.51:068][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.35.51:068][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.35.51:076][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-05.35.51:076][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-05.35.53:507][207]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.35.53:507][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.35.53:513][207]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-05.35.53:513][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-05.36.33:739][ 34]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2024.10.25-05.36.33:760][ 35]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.25-05.36.40:817][516]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Engine/StaticMeshActor.h 
+[2024.10.25-05.36.40:919][516]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Engine/StaticMeshActor.h : 42
+[2024.10.25-05.36.40:919][516]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:927][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:928][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:929][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:930][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:931][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:932][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:933][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:934][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:935][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:936][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:937][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:938][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:944][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.40:973][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:026][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:054][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:054][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:054][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:054][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:113][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:115][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:115][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:115][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:125][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:126][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:127][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:128][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:129][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:130][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:131][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:132][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:133][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:134][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:139][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:167][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:215][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:240][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:240][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:240][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.36.41:240][516]LogVSAccessor: Warning: Couldn't access module table
+[2024.10.25-05.39.40:832][363]BlueprintLog: New page: Compile Target
+[2024.10.25-05.39.40:862][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.25-05.39.42:455][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-05.39.42:555][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Target" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset" SILENT=true
+[2024.10.25-05.39.42:558][472]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Target
+[2024.10.25-05.39.42:559][472]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/TargetD2B944DA47788724753D3A851A847A2A.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset'
+[2024.10.25-05.39.42:567][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.76 sec)
+[2024.10.25-05.39.42:569][472]AssetCheck: New page: Asset Save: Target
+[2024.10.25-05.39.42:569][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/Target.Target
