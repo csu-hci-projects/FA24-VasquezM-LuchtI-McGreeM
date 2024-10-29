@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/MainMenu.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Targets_Hazards.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/GetTargetsGame.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/BP_Target.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/F6/1GYKLNL02GD5UE87XYVQS6.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/LPR19ER80EV6WB4WYIQX4Q.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/P1/LT0X71JUK77AVKGR9ZUZDZ.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2.umap",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/GetTargetsGame.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Hazard.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/BP_Target.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Y6/DSOCS2P3FYYI9B34OTWFAJ.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2L/Y1HUCHK8L6BAIR5VHQHTYH.uasset",
+				"C:/Users/Scholarly Michelle/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XZ/1JR5PLCQVDUARTZNIG0BHO.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/MenuGameMode.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/MainMenu.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/176061-apple_landscape_illustration-apples-illustration-natural_landscape-purple-1920x1080.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/background_of_game.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Menu/MainMenuMap.umap",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2_BuiltData.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/Level2.umap",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/NewMap.umap",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/Level2/NewMap_BuiltData.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/UserInterfaceTargets.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/HealthBar.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/UI/TargetHealth.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/BP_Target.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/Target_Health.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2L/Y1HUCHK8L6BAIR5VHQHTYH.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Y6/DSOCS2P3FYYI9B34OTWFAJ.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XZ/1JR5PLCQVDUARTZNIG0BHO.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/GetTargetsGame.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
