@@ -1540,3 +1540,125 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.29-18.23.34:124][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.10.29-18.23.34:141][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
 [2024.10.29-18.23.34:347][823]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.10.29-18.35.03:123][357]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2024.10.29-18.35.03:132][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.35.03:132][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.35.03:242][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.35.03:242][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.35.03:334][357]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.29-18.35.03:990][357]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.29-18.35.04:001][357]LogSlate: Took 0.007317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.29-18.35.07:649][394]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.35.07:649][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.35.07:678][394]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.35.07:678][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.35.10:054][417]LogSlate: Window 'GetTargetsGame' being destroyed
+[2024.10.29-18.35.10:148][417]LogSlate: Window 'GetTargetsGame' being destroyed
+[2024.10.29-18.35.10:184][417]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.35.10:185][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.35.20:333][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Target.Target
+[2024.10.29-18.35.20:334][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.35.20:334][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.35.25:638][571]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.10.29-18.35.30:003][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.36.57:959][361]LogSlate: Window 'Target' being destroyed
+[2024.10.29-18.36.58:060][361]LogSlate: Window 'Target' being destroyed
+[2024.10.29-18.36.58:089][361]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.36.58:089][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.37.00:594][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Target.Target
+[2024.10.29-18.37.00:606][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.00:606][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.37.28:062][653]LogSlate: Took 0.001562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.29-18.37.28:288][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.28:360][656]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.28:608][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.29:972][670]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.30:081][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.37.30:657][676]LogSlate: Window 'Open Asset' being destroyed
+[2024.10.29-18.37.30:770][676]LogSlate: Window 'Open Asset' being destroyed
+[2024.10.29-18.37.32:332][691]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.10.29-18.39.02:944][443]LogEditorTransaction: Undo Add Component
+[2024.10.29-18.41.16:430][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.10.29-18.41.16:435][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2/Level2' took 0.071
+[2024.10.29-18.41.16:440][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyBlueprints/Target] ([2] browsable assets)...
+[2024.10.29-18.41.16:440][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/Target]
+[2024.10.29-18.41.16:449][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/Target_Auto1
+[2024.10.29-18.41.16:449][565]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Target_Auto1B196EFB843029E862A076D8A03570240.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/MyBlueprints/Target_Auto1.uasset'
+[2024.10.29-18.41.16:452][565]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.10.29-18.42.51:952][377]BlueprintLog: New page: Compile Target
+[2024.10.29-18.42.52:076][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.10.29-18.42.52:191][378]BlueprintLog: New page: Compile Target
+[2024.10.29-18.42.52:259][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2024.10.29-18.42.52:364][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.29-18.42.52:514][379]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Target
+[2024.10.29-18.42.52:519][379]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Target255667464FE5EB42F2E483A704A8F7FE.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Target.uasset'
+[2024.10.29-18.42.52:548][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 1.02 sec)
+[2024.10.29-18.42.52:556][379]AssetCheck: New page: Asset Save: Target
+[2024.10.29-18.42.52:556][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/Target.Target
+[2024.10.29-18.42.55:863][409]LogSlate: Window 'Target' being destroyed
+[2024.10.29-18.42.55:976][409]LogSlate: Window 'Target' being destroyed
+[2024.10.29-18.42.56:007][409]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.42.56:009][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.43.23:800][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_Target.BP_Target
+[2024.10.29-18.43.23:801][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.43.23:801][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.43.24:698][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.43.34:250][808]LogSlate: Window 'BP_Target' being destroyed
+[2024.10.29-18.43.34:317][808]LogSlate: Window 'BP_Target' being destroyed
+[2024.10.29-18.43.34:345][808]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.29-18.43.34:346][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.29-18.44.40:592][477]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.29-18.44.40:604][477]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.29-18.44.40:613][477]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.29-18.44.40:640][478]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.29-18.44.44:334][522]LogContentBrowser: Attempting asset rename: NewBlueprint -> Hazard
+[2024.10.29-18.44.44:439][522]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.29-18.44.46:454][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Hazard.Hazard
+[2024.10.29-18.44.46:454][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.44.46:455][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.44.46:948][541]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.10.29-18.45.34:701][961]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock should be resaved to improve async compilation performance.
+[2024.10.29-18.45.34:767][961]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Rock) ...
+[2024.10.29-18.45.34:794][961]LogStaticMesh: Display: Building static mesh SM_Rock...
+[2024.10.29-18.45.34:824][961]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2024.10.29-18.45.34:865][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.45.36:546][976]LogMeshUtilities: Finished distance field build in 1.7s - 35x49x56 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 98% occupied, 409 triangles, SM_Rock
+[2024.10.29-18.46.38:260][500]LogEditorTransaction: Undo Replace component used material
+[2024.10.29-18.46.40:458][516]BlueprintLog: New page: Compile Hazard
+[2024.10.29-18.46.40:599][516]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2024.10.29-18.46.41:064][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.29-18.46.41:249][519]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Hazard
+[2024.10.29-18.46.41:249][519]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Hazard3F25F1D243B275EB744CB89AC0C7FB39.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Hazard.uasset'
+[2024.10.29-18.46.41:281][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 1.24 sec)
+[2024.10.29-18.46.41:283][519]AssetCheck: New page: Asset Save: Hazard
+[2024.10.29-18.46.41:283][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/Hazard.Hazard
+[2024.10.29-18.50.12:122][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_Target.BP_Target
+[2024.10.29-18.50.12:124][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.50.12:124][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.29-18.50.15:512][349]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.10.29-18.51.26:404][943]BlueprintLog: New page: Compile Hazard
+[2024.10.29-18.51.26:487][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2024.10.29-18.51.27:549][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.29-18.51.27:860][953]LogSavePackage: Moving output files for package: /Game/MyBlueprints/Hazard
+[2024.10.29-18.51.27:862][953]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/HazardE6734C8947E67E85F8E77898160D0A21.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/Hazard.uasset'
+[2024.10.29-18.51.27:882][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 1.57 sec)
+[2024.10.29-18.51.27:885][953]AssetCheck: New page: Asset Save: Hazard
+[2024.10.29-18.51.27:885][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/Hazard.Hazard
+[2024.10.29-18.51.52:810][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.10.29-18.51.52:812][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2/Level2' took 0.055
+[2024.10.29-18.51.52:812][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyBlueprints/BP_Target] ([2] browsable assets)...
+[2024.10.29-18.51.52:826][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyBlueprints/BP_Target.BP_Target]
+[2024.10.29-18.51.52:826][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.29-18.51.52:894][165]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/MyBlueprints/BP_Target.BP_Target_C]
+[2024.10.29-18.51.52:894][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/BP_Target]
+[2024.10.29-18.51.52:916][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/BP_Target_Auto2
+[2024.10.29-18.51.52:916][165]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_Target_Auto2DADDF6DB4BB7EA942AB683BCB23C992F.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/Autosaves/Game/MyBlueprints/BP_Target_Auto2.uasset'
+[2024.10.29-18.51.52:917][165]LogFileHelpers: Auto-saving content packages took 0.106
+[2024.10.29-18.52.36:891][563]BlueprintLog: New page: Compile BP_Target
+[2024.10.29-18.52.37:142][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.10.29-18.52.38:636][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.29-18.52.38:942][577]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_Target
+[2024.10.29-18.52.38:945][577]LogSavePackage: Moving '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Saved/BP_Target18337C524F59AB285EEF469E2681FCF1.tmp' to '../../../../../../Users/Scholarly Michelle/OneDrive - Colostate/CS310H/other/FA24-VasquezM-LuchtI-McGreeM/HW1/Content/MyBlueprints/BP_Target.uasset'
+[2024.10.29-18.52.38:963][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 327 ms (total: 1.90 sec)
+[2024.10.29-18.52.38:968][577]AssetCheck: New page: Asset Save: BP_Target
+[2024.10.29-18.52.38:968][577]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/BP_Target.BP_Target
