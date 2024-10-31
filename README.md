@@ -3,12 +3,12 @@
 * Michelle Vasquez: Targets, Hazards, Character Health, Main Menu.
 * Ian Lucht: Created project, levels/layout, Ammo, Pickups.
 
-#Links: 
+# Links: 
 * https://youtu.be/aPk_Ox14Fhg
 
-#References: 
+# References: 
 * https://youtu.be/kumZj_mov58?si=c5c-W2jH4GS77fsL
-* 
+  
 # How the Application Works
 * The application begins with a start menu. The start goes to level one and the quit will exit the game. 
 * In the first and second level, the user needs to pick up the gun and shoot the targets, which are white barrels. 
