@@ -1,7 +1,7 @@
 # FA24-VasquezM-LuchtI-McGreeM
 # Members: Michelle Vasquez and Ian 
 * Michelle Vasquez: Targets, Hazards, Character Health, Main Menu.
-* Ian: Created project, levels/layout, Ammo, Pickups.
+* Ian Lucht: Created project, levels/layout, Ammo, Pickups.
 
 #Links: 
 * https://youtu.be/aPk_Ox14Fhg
