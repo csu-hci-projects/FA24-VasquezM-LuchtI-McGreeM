@@ -17,3 +17,6 @@
 * There are health pickups and ammo pickups. Since the player only has thirty rounds to start with, they may run out if they miss the target. 
 * A player will die if they go by the hazard and when it’s reduced it goes to level one. 
 * The health status does not show up until damage has happened. 
+
+#HW2 Logs:
+*11/20 2.5 hours
