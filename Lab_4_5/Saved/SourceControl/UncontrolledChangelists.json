@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/45/Lab_4_5/Content/level1.umap",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/45/Lab_4_5/Content/MyBlueprintsVR/AmmoPistol.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/45/Lab_4_5/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/michellv/OneDrive - Colostate/CS310H/45/Lab_4_5/Content/MyBlueprintsVR/IA_Reload_Right.uasset",
+				"C:/Users/memcgree/Documents/Unreal Projects/Lab_4_5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/memcgree/Documents/Unreal Projects/Lab_4_5/Content/MyBlueprintsVR/Target.uasset",
+				"C:/Users/memcgree/Documents/Unreal Projects/Lab_4_5/Content/level1.umap"
+			]
+		}
+	]
+}
