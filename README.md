@@ -19,4 +19,4 @@
 * The health status does not show up until damage has happened. 
 
 #HW2 Logs:
-*11/20 2.5 hours
+* 11/20 2.5 hours
