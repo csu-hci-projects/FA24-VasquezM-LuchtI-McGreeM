@@ -1,6 +1,6 @@
 # FA24-VasquezM-LuchtI-McGreeM
 # Members: Molly McGree, Michelle Vasquez, and Ian Lucht
-##Tasks Completed
+# Tasks Completed
 * Molly McGree:
 * Michelle Vasquez:
 * Ian Lucht:
@@ -23,6 +23,6 @@
 * The player can reload by pressing on A of the right controller.
 * Once the player has destroyed the targets, then it is taken to the second level, the win level.
   
-#Meetings
+# Meetings
 * 11/20 2.5 hours
 * 12/4  3 hours
