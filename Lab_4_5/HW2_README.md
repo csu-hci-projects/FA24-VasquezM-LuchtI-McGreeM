@@ -1,9 +1,9 @@
 # FA24-VasquezM-LuchtI-McGreeM
 # Members: Molly McGree, Michelle Vasquez, and Ian Lucht
 # Tasks Completed
-* Molly McGree:
-* Michelle Vasquez:
-* Ian Lucht:
+* Molly McGree: AI report, VR Tester, Target, Gun Blueprint
+* Michelle Vasquez: Layout Design, Winner Level, Gun Blueprint, Counters, 
+* Ian Lucht: VR Tester, Gun Blueprint, Target, Reload
 
 # Links: 
 * 
@@ -25,4 +25,5 @@
   
 # Meetings
 * 11/20 2.5 hours
+* 12/2 1 hour
 * 12/4  3 hours
