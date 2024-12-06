@@ -3,14 +3,14 @@
 # Tasks Completed
 * Molly McGree: AI report, VR Tester, Target, Gun Blueprint
 * Michelle Vasquez: Layout Design, Winner Level, Gun Blueprint, Counters, 
-* Ian Lucht: VR Tester, Gun Blueprint, Target, Reload
+* Ian Lucht: VR Tester, Gun Blueprint, Target, Recording
 
 # Links: 
-* 
-* 
+* https://youtu.be/A3s9UHzxlek
+* https://youtu.be/H0I9uQEUfck
 
 # References: 
-*
+* Lab Activity 4 and 5
   
 # How the Application Works
 * The application begins with a start menu. The start goes to level one and the quit will exit the game.
