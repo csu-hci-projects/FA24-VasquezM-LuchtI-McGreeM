@@ -18,5 +18,7 @@
 * A player will die if they go by the hazard and when it’s reduced it goes to level one. 
 * The health status does not show up until damage has happened. 
 
+
+# ALL OTHER HW2 INFO IS located within the lab_4_5 folder
 #HW2 Logs:
 * 11/20 2.5 hours
